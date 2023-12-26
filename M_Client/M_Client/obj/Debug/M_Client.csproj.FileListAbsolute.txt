@@ -1,0 +1,9 @@
+E:\CsProject\M_Client\M_Client\bin\Debug\M_Client.exe
+E:\CsProject\M_Client\M_Client\bin\Debug\M_Client.pdb
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.csprojAssemblyReference.cache
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.Form1.resources
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.Properties.Resources.resources
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.csproj.GenerateResource.cache
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.csproj.CoreCompileInputs.cache
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.exe
+E:\CsProject\M_Client\M_Client\obj\Debug\M_Client.pdb
